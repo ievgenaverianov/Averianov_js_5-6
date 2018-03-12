@@ -1,0 +1,32 @@
+body {
+    height: 100vh;
+}
+
+body {
+    background-color: #000000;
+}
+
+button {
+    width: 100px;
+}
+
+.pausebtn {
+    display: none;
+}
+
+.timestring {
+    color: #ff0000;
+}
+
+.printedtime {
+    color: #ff0000;
+    font-size: 20px;
+}
+
+.timer {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
