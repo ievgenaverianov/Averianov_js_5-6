@@ -8,17 +8,18 @@ body {
 
 button {
     width: 100px;
+    text-transform: uppercase;
 }
 
-.pausebtn {
+.pauseBtn {
     display: none;
 }
 
-.timestring {
+.timeString {
     color: #ff0000;
 }
 
-.printedtime {
+.printedTime {
     color: #ff0000;
     font-size: 20px;
 }
